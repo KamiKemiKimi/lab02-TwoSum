@@ -56,7 +56,7 @@ public class lab02 {
 	{
 		//USE THIS TO TEST
 		int [] arr1 = {2, 6, 8, 7};
-		int target = 16;
+		int target = 14;
 		
 		
 		//Print given array
@@ -107,7 +107,7 @@ public class lab02 {
 						System.out.print(", " + arr3[i]);
 				}
 					System.out.println("]");
-					System.out.print("    Because nums[" + arr3[0] + "] + " + "nums[" + arr3[1] + "] = " + arr2[arr3[0]] + " + " + arr2[arr3[1]] + " = " + (arr2[arr3[0]] + arr2[arr3[1]]));
+					System.out.print("       Because nums[" + arr3[0] + "] + " + "nums[" + arr3[1] + "] = " + arr2[arr3[0]] + " + " + arr2[arr3[1]] + " = " + (arr2[arr3[0]] + arr2[arr3[1]]));
 					
 		}
 	}
